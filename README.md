@@ -22,7 +22,7 @@ OpenCore 0.6.3
 iMac20,2<br>
 
 ### Everything works
-Big Sur 11.0.1<br>
+Big Sur 11.1<br>
 Messages, Store, Handoff, Watch unlock<br>
 Sleep/Wakeup<br>
 USB Ports<br>
